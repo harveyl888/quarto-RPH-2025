@@ -11,21 +11,21 @@
     "href": "index.html#housekeeping",
     "title": "R/Pharma 2025",
     "section": "Housekeeping",
-    "text": "Housekeeping\n\n\nGeneral Guidelines\n\nTerms and conditions - check the website at https://rinpharma.com/terms.html.\nR/Pharma is a non-commercial conference. Vendors are welcome to attend but as practitioners, not salespeople.\nPlease be patient with us - virtual is different. This is our second year hosting on Zoom Events and we’re getting better \n\nAsking for help\n\nSlack: reach out in the #help-me channel in rinpharmaconf (rinpharmaconf.slack.com)\nReach out in the conference chat\nContact form on rinpharma.com\nEmail to info@rinpharma.com"
+    "text": "Housekeeping\n\n\nGeneral Guidelines\n\nTerms and conditions - check the website at https://rinpharma.com/terms.html\nR/Pharma is a non-commercial conference. Vendors are welcome to attend but as practitioners, not salespeople\nPlease be patient with us - hosting a virtual conference is different \n\nAsking for help\n\nSlack: reach out in the #help-me channel in rinpharmaconf (rinpharmaconf.slack.com)\nReach out in the conference chat\nContact form on rinpharma.com\nEmail to info@rinpharma.com"
   },
   {
     "objectID": "index.html#what-is-rpharma",
     "href": "index.html#what-is-rpharma",
     "title": "R/Pharma 2025",
     "section": "What is R/Pharma?",
-    "text": "What is R/Pharma?\n\n\nVolunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries.\nAnnual meeting\n\nWorkshops, keynotes, talks and panels.\nStarted in 2018 (In person 2018, 2019. Virtual from 2020).\n\nWant to help? Join our community.\n\nemail info@rinpharma.com to contribute.\n\nWe’ve been busy in 2025…"
+    "text": "What is R/Pharma?\n\n\nVolunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries\nAnnual meeting\n\nWorkshops, keynotes, talks and panels\nStarted in 2018 (In person 2018, 2019. Virtual from 2020)\n\nWant to help? Join our community\n\nemail info@rinpharma.com to contribute\n\nWe’ve been busy in 2025…"
   },
   {
     "objectID": "index.html#rpharma-2025",
     "href": "index.html#rpharma-2025",
     "title": "R/Pharma 2025",
     "section": "R/Pharma 2025",
-    "text": "R/Pharma 2025\n\n\nR/Pharma @ posit::conf 2025\n\nRoundtable summit at posit::conf 2025. Over 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.\nNotes available on R/Pharma website.\n\nR/Pharma Diversity Alliance\n\nHackathon - introducing new contributors to open source.\n\nR/Pharma Hangouts\nSecond R/Pharma genAI Day (Aug 19)\n\nCheck R/Pharma website or YouTube channel for recordings.\n\nNew R/Pharma website"
+    "text": "R/Pharma 2025\n\n\nR/Pharma summit @ posit::conf 2025\n\nOver 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech\nNotes available on R/Pharma website\n\nR/Pharma Diversity Alliance\n\nHackathon - introducing new contributors to open source\n\nR/Pharma Hangouts\nSecond R/Pharma genAI Day (Aug 19)\n\nCheck R/Pharma website or YouTube channel for recordings.\n\nNew R/Pharma website"
   },
   {
     "objectID": "index.html#rpharma-apac-track",
@@ -46,7 +46,7 @@
     "href": "index.html#brian-bole-award-of-excellence",
     "title": "R/Pharma 2025",
     "section": "Brian Bole Award of Excellence",
-    "text": "Brian Bole Award of Excellence\n\n\nBrian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.\nThe Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.\nPrevious winners\n\n{admiral} development team\nNovo Nordisk submissions team\nR Consortium Submissions Working Group\n\nThis year we’re proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions."
+    "text": "Brian Bole Award of Excellence\n\n\nBrian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny\nThe Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences\nPrevious winners\n\n{admiral} development team\nNovo Nordisk submissions team\nR Consortium Submissions Working Group\n\nThis year we’re proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions."
   },
   {
     "objectID": "index.html#thank-you-to-rpharma-sponsors",
@@ -60,6 +60,6 @@
     "href": "index.html#rpharma-2025-virtual",
     "title": "R/Pharma 2025",
     "section": "R/Pharma 2025 Virtual",
-    "text": "R/Pharma 2025 Virtual\n\n\nBefore/after R/Pharma and during breaks\n\nNetwork and visit Expo\n\nShowcase your open source and community contributions in an Expo booth (link in chat)\n\n\nCelebrating R/Pharma \n\n#rinpharma in social media\n\nWednesday: Joe Cheng discussion and coding\nThursday: Discussion panel (J&J Submission journey) - look out for slido links in chat"
+    "text": "R/Pharma 2025 Virtual\n\n\nBefore/after R/Pharma and during breaks\n\nNetwork and visit Expo\n\nShowcase your open source and community contributions in an Expo booth (link in chat)\n\n\nCelebrating R/Pharma \n\n#rinpharma in social media\n\nWednesday: Joe Cheng discussion and live coding\nThursday: Discussion panel (J&J Submission journey) - look out for slido links in chat\nWednesday and Thursday - check schedule for pre-recorded talks"
   }
 ]

@@ -24,9 +24,9 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ::: {.smaller}
 -  General Guidelines
-    -  Terms and conditions - check the website at https://rinpharma.com/terms.html.
-    -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople.
-    -  Please be patient with us - virtual is different.  This is our second year hosting on Zoom Events and we're getting better {{< li ebvizisb trigger=loop >}}
+    -  Terms and conditions - check the website at https://rinpharma.com/terms.html
+    -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople
+    -  Please be patient with us - hosting a virtual conference is different {{< li ebvizisb trigger=loop >}}
 -  Asking for help
     - Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
     -  Reach out in the **conference chat**
@@ -37,12 +37,12 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## What is R/Pharma?
 
 ::: {.small}
--  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries.
+-  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries
 -  Annual meeting
-    -  Workshops, keynotes, talks and panels.
-    -  Started in 2018 (In person 2018, 2019.  Virtual from 2020).
--  Want to help?  Join our community.
-    -  **email info@rinpharma.com to contribute**.
+    -  Workshops, keynotes, talks and panels
+    -  Started in 2018 (In person 2018, 2019.  Virtual from 2020)
+-  Want to help?  Join our community
+    -  **email info@rinpharma.com to contribute**
 
 -  We've been busy in 2025...
 :::
@@ -50,11 +50,11 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## R/Pharma 2025 
 
 ::: {.incremental .small}
--  R/Pharma @ posit::conf 2025
-    -  Roundtable summit at posit::conf 2025. Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
-    -  Notes available on R/Pharma website.
+-  R/Pharma summit @ posit::conf 2025
+    -  Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech
+    -  Notes available on R/Pharma website
 -  R/Pharma Diversity Alliance
-    - Hackathon - introducing new contributors to open source.
+    - Hackathon - introducing new contributors to open source
 -  R/Pharma Hangouts
 -  Second R/Pharma genAI Day (Aug 19)
     - Check R/Pharma website or YouTube channel for recordings.
@@ -125,8 +125,8 @@ Yilong Zhang
 ## Brian Bole Award of Excellence
 
 ::: {.incremental .small}
--  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
--  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
+-  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny
+-  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences
 -  Previous winners
     -  {admiral} development team
     -  Novo Nordisk submissions team
@@ -149,6 +149,7 @@ Yilong Zhang
 -  Celebrating R/Pharma
 <!--    -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/) -->
     -  #rinpharma in social media
--  Wednesday: Joe Cheng discussion and coding
+-  Wednesday: Joe Cheng discussion and live coding
 -  Thursday: Discussion panel (J&J Submission journey) - look out for slido links in chat
+-  Wednesday and Thursday - check schedule for pre-recorded talks
 :::
