@@ -1,12 +1,13 @@
 ---
-title: R/Pharma 2024
+title: R/Pharma 2025
 format:
   revealjs:
     logo: logotext_small.png
-    footer: R/Pharma 2024
+    footer: R/Pharma 2025
+    css: styles.css
 ---
 
-## Welcome to R/Pharma 2024
+## Welcome to R/Pharma 2025
 
 <script src="https://cdn.lordicon.com/lordicon-1.1.0.js"></script>
 <lord-icon
@@ -16,16 +17,16 @@ format:
 </lord-icon>
 
 ::: footer
-R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
+R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 :::
 
 ## Housekeeping
 
-::: {style="font-size: 80%;"}
+::: {.smaller}
 -  General Guidelines
-    -  Terms and conditions - check the website at rinpharma.com/post/faq/.
+    -  Terms and conditions - check the website at https://rinpharma.com/terms.html.
     -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople.
-    -  Please be patient with us - virtual is different.  This is our first year hosting on Zoom Events.
+    -  Please be patient with us - virtual is different.  This is our second year hosting on Zoom Events and we're getting better {{< li ebvizisb trigger=loop >}}
 -  Asking for help
     - Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
     -  Reach out in the **conference chat**
@@ -35,6 +36,7 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ## What is R/Pharma?
 
+::: {.small}
 -  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries.
 -  Annual meeting
     -  Workshops, keynotes, talks and panels.
@@ -42,107 +44,111 @@ R/Pharma 2024  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 -  Want to help?  Join our community.
     -  **email info@rinpharma.com to contribute**.
 
--  We've been busy in 2024...
+-  We've been busy in 2025...
+:::
 
-## R/Pharma 2024
+## R/Pharma 2025 
 
-::: {.incremental}
--  R/Pharma @ posit::conf 2024
-    -  Roundtable summit at posit::conf 2024. Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
-    -  Notes and follow-ups will be online shortly.
+::: {.incremental .small}
+-  R/Pharma @ posit::conf 2025
+    -  Roundtable summit at posit::conf 2025. Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech.
+    -  Notes available on R/Pharma website.
 -  R/Pharma Diversity Alliance
+    - Hackathon - introducing new contributors to open source.
 -  R/Pharma Hangouts
--  R/Pharma genAI Day (Sept 17)
--  Community Newsletter (LinkedIn)
+-  Second R/Pharma genAI Day (Aug 19)
+    - Check R/Pharma website or YouTube channel for recordings.
+-  New R/Pharma website
 :::
 
 ## R/Pharma APAC Track
 
--  First year running a scientific track for both EU/US and APAC.
+::: {.small}
+
+-  Second year running a scientific track for both EU/US and APAC.
 -  Almost 24 hours of R/Pharma!!!
 -  Daniel Sabanés Bové and APAC organizing committee managing APAC track
-    -  workshops
+    -  keynotes, plus Europe/US keynote replays followed by discussion panels
     -  presentations
-    -  keynote replays followed by discussion panels
+    -  workshops
 -  Presentations from both tracks will be available on YouTube channel after R/Pharma
 
-## R/Pharma Workshops
+:::
 
--  Diversity Alliance Hackathon
-    -  Introducing new contributors to open source
--  18 free workshops
 
 ## R/Pharma Workshop Presenters
 
-:::: {.columns style="font-size: 80%;"}
+18 Free Workshops at R/Pharma this year
+
+:::: {.columns .small}
 
 ::: {.column width="33%"}
-Smitha Ankinakatte  
-Ben Arancibia  
-Farid Azouaou  
-Thomas Charlon  
+Sarah Altman  
+Harshavardhan Bajoria  
+Jacqueline Buros-Novik  
 Michael Chow  
-John Coene  
-Joshua Cook  
+Emily De La Rua  
+Xu Fei  
 Rammprasad Ganapathy  
-Davide Garolini  
+David Gohel  
+Sam Hume
 :::
 
 ::: {.column width="33%"}
-Fanny Gautier  
-David Granjon  
-Shannon Hagerty  
 Rich Iannone  
+Jeroen Janssens  
 Doug Kelkhoff  
-Leena Khatri  
-Deepansh Khurana  
-Becca Krouse  
-Edoardo Mancini  
-Sadchla Mascary  
+Aathira Anil Kumar  
+Daniel Lee  
+Nick Masel  
+Michael Mayer  
+Eli Miller  
+Friedrich Pahlke  
+Devin Pastoor
 :::
 
 ::: {.column width="33%"}
-Michael Mayer  
-Richard Payne  
+Nina Qi  
 Nicola Rennie  
-Daniel Sabanés Bové  
-Barret Schloerke  
-Daniel Sjoberg  
-Ben Straub  
-Karma Tarap  
-Joe Zhu
+Daniel Sabanés Bové   
+Mike Stackhouse  
+Juho Timonen  
+Dony Unardi  
+Isabella Velásquez  
+Nan Xiao  
+Abinaya Yogasekaram  
+Yilong Zhang
 :::
 
 ::::
 
 ## Brian Bole Award of Excellence
 
-::: {.incremental style="font-size: 80%;"}
+::: {.incremental .small}
 -  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny.
 -  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences.
 -  Previous winners
     -  {admiral} development team
     -  Novo Nordisk submissions team
--  This year we're proud to present it to the R Submissions Working group of the R Consortium for the incredible work they have done for the submissions pilots and pushing the boundaries for future technologies.
+    -  R Consortium Submissions Working Group
+-  This year we're proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions.
 :::
 
 ## Thank You to R/Pharma Sponsors!
 
-![](assets/novo.jpeg){width=300}
 ![](assets/j_and_j.png){width=300}
 ![](assets/posit.png){width=300}
 
 
-## R/Pharma 2024 Virtual
+## R/Pharma 2025 Virtual
 
-::: {style="font-size: 80%;"}
+::: {.small}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
         -  Showcase your open source and community contributions in an Expo booth (link in chat)
 -  Celebrating R/Pharma
-    -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/)
+<!--    -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/) -->
     -  #rinpharma in social media
--  Discussion panels (diversity & submissions) - look out for slido links in chat
--  R/Pharma Halloween: Sharing "Horror Stories" about R and open source
-    -  link in chat
+-  Wednesday: Joe Cheng discussion and coding
+-  Thursday: Discussion panel (J&J Submission journey) - look out for slido links in chat
 :::
