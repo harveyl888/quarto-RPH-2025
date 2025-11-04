@@ -139,6 +139,13 @@ Yilong Zhang
 ![](assets/j_and_j.png){width=300}
 ![](assets/posit.png){width=300}
 
+## Supporting and Celebrating R/Pharma
+
+::: {.small}
+-  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/) 
+-  Support our non-profit (https://www.pledge.to/r-pharma)
+-  #rinpharma in social media (LinkedIn, X, Mastodon, Bluesky, YouTube)
+:::
 
 ## R/Pharma 2025 Virtual
 
@@ -146,9 +153,6 @@ Yilong Zhang
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
         -  Showcase your open source and community contributions in an Expo booth (link in chat)
--  Celebrating R/Pharma
-<!--    -  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/) -->
-    -  #rinpharma in social media
 -  Wednesday: Joe Cheng discussion and live coding
 -  Thursday: Discussion panel (J&J Submission journey) - look out for slido links in chat
 -  Wednesday and Thursday - check schedule for pre-recorded talks
