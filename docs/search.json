@@ -25,7 +25,7 @@
     "href": "index.html#rpharma-2025",
     "title": "R/Pharma 2025",
     "section": "R/Pharma 2025",
-    "text": "R/Pharma 2025\n\n\nR/Pharma summit @ posit::conf 2025\n\nOver 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech\nNotes available on R/Pharma website\n\nR/Pharma Diversity Alliance\n\nHackathon - introducing new contributors to open source\n\nR/Pharma Hangouts\nSecond R/Pharma genAI Day (Aug 19)\n\nCheck R/Pharma website or YouTube channel for recordings.\n\nNew R/Pharma website"
+    "text": "R/Pharma 2025\n\n\nR/Pharma summit @ posit::conf 2025 (Sep 15)\n\nOver 100 representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech\nNotes available on R/Pharma website\n\nR/Pharma Diversity Alliance\n\nHackathon - introducing new contributors to open source\n\nR/Pharma Hangouts\nSecond R/Pharma genAI Day (Aug 19)\n\nCheck R/Pharma website or YouTube channel for recordings.\n\nNew R/Pharma website"
   },
   {
     "objectID": "index.html#rpharma-apac-track",
@@ -46,7 +46,7 @@
     "href": "index.html#brian-bole-award-of-excellence",
     "title": "R/Pharma 2025",
     "section": "Brian Bole Award of Excellence",
-    "text": "Brian Bole Award of Excellence\n\n\nBrian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny\nThe Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences\nPrevious winners\n\n{admiral} development team\nNovo Nordisk submissions team\nR Consortium Submissions Working Group\n\nThis year we’re proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions."
+    "text": "Brian Bole Award of Excellence\n\n\nBrian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny\nThe Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences\nBrian Bole Award has previously been awarded to:\n\n{admiral} development team\nNovo Nordisk submissions team\nR Consortium Submissions Working Group\n\nThis year we’re proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions"
   },
   {
     "objectID": "index.html#thank-you-to-rpharma-sponsors",
@@ -67,6 +67,13 @@
     "href": "index.html#rpharma-2025-virtual",
     "title": "R/Pharma 2025",
     "section": "R/Pharma 2025 Virtual",
-    "text": "R/Pharma 2025 Virtual\n\n\nBefore/after R/Pharma and during breaks\n\nNetwork and visit Expo\n\nShowcase your open source and community contributions in an Expo booth (link in chat)\n\n\nWednesday: Joe Cheng discussion and live coding\nThursday: Discussion panel (J&J Submission journey) - look out for slido links in chat\nWednesday and Thursday - check schedule for pre-recorded talks"
+    "text": "R/Pharma 2025 Virtual\n\n\nBefore/after R/Pharma and during breaks\n\nNetwork and visit Expo\n\nShowcase your open source and community contributions in an Expo booth (https://bit.ly/4oT8Q1t)\n\n\nSchedule: https://rpharma-2025.sessionize.com/\nWednesday and Thursday - check schedule for pre-recorded talks"
+  },
+  {
+    "objectID": "index.html#announcements",
+    "href": "index.html#announcements",
+    "title": "R/Pharma 2025",
+    "section": "ANNOUNCEMENTS",
+    "text": "ANNOUNCEMENTS\n\nWednesday: Joe Cheng discussion and live coding\nThursday: Discussion panel (J&J Submission journey) - look out for slido link in chat to submit questions"
   }
 ]

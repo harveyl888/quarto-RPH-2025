@@ -50,7 +50,7 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## R/Pharma 2025 
 
 ::: {.incremental .small}
--  R/Pharma summit @ posit::conf 2025
+-  R/Pharma summit @ posit::conf 2025 (Sep 15)
     -  Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech
     -  Notes available on R/Pharma website
 -  R/Pharma Diversity Alliance
@@ -127,11 +127,11 @@ Yilong Zhang
 ::: {.incremental .small}
 -  Brian Bole was an innovator and thought leader in the healthcare and life sciences space, working with R and an early adopter of shiny
 -  The Brian Bole Award of Excellence is presented annually in recognition of outstanding achievements in open source life sciences
--  Previous winners
+-  Brian Bole Award has previously been awarded to:
     -  {admiral} development team
     -  Novo Nordisk submissions team
     -  R Consortium Submissions Working Group
--  This year we're proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions.
+-  This year we're proud to present it to the Daniel Sjoberg and the {gtsummary} team for helping propel groups towards open source submissions
 :::
 
 ## Thank You to R/Pharma Sponsors!
@@ -147,13 +147,28 @@ Yilong Zhang
 -  #rinpharma in social media (LinkedIn, X, Mastodon, Bluesky, YouTube)
 :::
 
+:::{.space-image}
+![](assets/R_Pharma_Store-1024.png){width=200px}
+![](assets/pledgeto-1024.png){width=200px}
+:::
+
 ## R/Pharma 2025 Virtual
 
 ::: {.small}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
-        -  Showcase your open source and community contributions in an Expo booth (link in chat)
--  Wednesday: Joe Cheng discussion and live coding
--  Thursday: Discussion panel (J&J Submission journey) - look out for slido links in chat
+        -  Showcase your open source and community contributions in an Expo booth (https://bit.ly/4oT8Q1t)
+-  Schedule: https://rpharma-2025.sessionize.com/
 -  Wednesday and Thursday - check schedule for pre-recorded talks
 :::
+
+:::{.space-image}
+![](assets/Expo-1024.jpeg){width=200px}
+![](assets/Schedule-1024.jpeg){width=200px}
+:::
+
+## ANNOUNCEMENTS
+
+-  Wednesday: Joe Cheng discussion and live coding
+-  Thursday: Discussion panel (J&J Submission journey) - look out for slido link in chat to submit questions
+
