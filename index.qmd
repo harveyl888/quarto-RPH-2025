@@ -28,8 +28,8 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
     -  R/Pharma is a non-commercial conference.  Vendors are welcome to attend but as practitioners, not salespeople
     -  Please be patient with us - hosting a virtual conference is different {{< li ebvizisb trigger=loop >}}
 -  Asking for help
-    - Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
     -  Reach out in the **conference chat**
+    -  Slack: reach out in the **#help-me** channel in rinpharmaconf (**rinpharmaconf.slack.com**)
     -  Contact form on **rinpharma.com**
     -  Email to **info@rinpharma.com**
 :::
@@ -38,11 +38,13 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ::: {.small}
 -  Volunteer organization of passionate R pactitioners in the Pharmaceutical and Biotech industries
--  Annual meeting
+-  This is our Annual Conference
     -  Workshops, keynotes, talks and panels
+    -  Fun stuff in the breaks
     -  Started in 2018 (In person 2018, 2019.  Virtual from 2020)
 -  Want to help?  Join our community
     -  **email info@rinpharma.com to contribute**
+    -  keep in touch through social media
 
 -  We've been busy in 2025...
 :::
@@ -50,15 +52,16 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 ## R/Pharma 2025 
 
 ::: {.incremental .small}
+-  SDTM Workshop (200+ attendees)
 -  R/Pharma summit @ posit::conf 2025 (Sep 15)
     -  Over 100  representatives from 45+ companies contributed to discussions on R and open source in Pharma and biotech
     -  Notes available on R/Pharma website
 -  R/Pharma Diversity Alliance
     - Hackathon - introducing new contributors to open source
 -  R/Pharma Hangouts
--  Second R/Pharma genAI Day (Aug 19)
+-  Second R/Pharma genAI Day (Aug 19, 700+ attendees)
     - Check R/Pharma website or YouTube channel for recordings.
--  New R/Pharma website
+-  New R/Pharma website ([https://rinpharma.com/](https://rinpharma.com/))
 :::
 
 ## R/Pharma APAC Track
@@ -71,7 +74,7 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
     -  keynotes, plus Europe/US keynote replays followed by discussion panels
     -  presentations
     -  workshops
--  Presentations from both tracks will be available on YouTube channel after R/Pharma
+-  Presentations from both APAC and Europe/US will be available in our YouTube channel after R/Pharma
 
 :::
 
@@ -142,8 +145,10 @@ Yilong Zhang
 ## Supporting and Celebrating R/Pharma
 
 ::: {.small}
--  Online merchandise store (https://www.bonfire.com/store/open-source-in-pharma/) 
--  Support our non-profit (https://www.pledge.to/r-pharma)
+-  Online merchandise store
+    - [https://www.bonfire.com/store/open-source-in-pharma/](https://www.bonfire.com/store/open-source-in-pharma/)
+-  Support our non-profit
+    - [https://www.pledge.to/r-pharma](https://www.pledge.to/r-pharma)
 -  #rinpharma in social media (LinkedIn, X, Mastodon, Bluesky, YouTube)
 :::
 
@@ -157,8 +162,8 @@ Yilong Zhang
 ::: {.small}
 -  Before/after R/Pharma and during breaks
     -  Network and visit Expo
-        -  Showcase your open source and community contributions in an Expo booth (https://bit.ly/4oT8Q1t)
--  Schedule: https://rpharma-2025.sessionize.com/
+        -  Showcase your open source and community contributions in an Expo booth ([https://bit.ly/4oT8Q1t](https://bit.ly/4oT8Q1t))
+-  Schedule: [https://rpharma-2025.sessionize.com/](https://rpharma-2025.sessionize.com/)
 -  Wednesday and Thursday - check schedule for pre-recorded talks
 :::
 
@@ -167,8 +172,11 @@ Yilong Zhang
 ![](assets/Schedule-1024.jpeg){width=200px}
 :::
 
-## ANNOUNCEMENTS
+## SPECIAL ANNOUNCEMENTS
 
--  Wednesday: Joe Cheng discussion and live coding
--  Thursday: Discussion panel (J&J Submission journey) - look out for slido link in chat to submit questions
+-  Wednesday: Joe Cheng and Eric Nantz (2PM EST)
+    - The LLM Lounge: Live-coding and conversation on using AI for data science
+-  Thursday: Panel - J&J Submission Journey (1:30PM EST)
+    - look out for slido link in chat to submit questions
+    - **This will not be recorded**
 
