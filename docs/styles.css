@@ -9,3 +9,8 @@
 .space-image img {
   margin-right: 30px
 }
+
+lord-icon.larger {
+  width: 75px;
+  height: 75px;
+}

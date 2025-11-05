@@ -81,7 +81,7 @@ R/Pharma 2025  -  <a href="https://lordicon.com/">Icons by Lordicon.com</a>
 
 ## R/Pharma Workshop Presenters
 
-18 Free Workshops at R/Pharma this year
+18 Free Workshops at R/Pharma this year {{< li rhmbrqqg trigger=loop class=larger >}}
 
 :::: {.columns .small}
 
