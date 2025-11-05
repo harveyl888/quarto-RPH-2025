@@ -178,5 +178,5 @@ Yilong Zhang
     - The LLM Lounge: Live-coding and conversation on using AI for data science
 -  Thursday: Panel - J&J Submission Journey (1:30PM EST)
     - look out for slido link in chat to submit questions
-    - **This will not be recorded**
+- **These will not be recorded**
 
